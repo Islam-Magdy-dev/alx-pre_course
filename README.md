@@ -6,3 +6,4 @@ To be up to date in git, you can use the following commands:
 * `git merge`: This will merge the latest changes into your local branch.
 * `git push`: This will push the changes from your local branch to the remote repository.
 updated
+islam
