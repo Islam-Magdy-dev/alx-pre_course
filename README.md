@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## How to be up to date in git
 
 To be up to date in git, you can use the following commands:
@@ -7,3 +8,6 @@ To be up to date in git, you can use the following commands:
 * `git push`: This will push the changes from your local branch to the remote repository.
 updated
 islam
+=======
+my second readme
+>>>>>>> update_script
